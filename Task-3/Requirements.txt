@@ -1,0 +1,8 @@
+tensorflow==2.14.0
+numpy>=1.19.5
+SpeechRecognition>=3.8.1
+pyaudio
+tk
+scikit-learn>=1.2.2
+matplotlib>=3.7.1
+pandas>=1.5.3
