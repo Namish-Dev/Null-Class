@@ -1,0 +1,4 @@
+parallel/
+*.h5
+*.npz
+Other_model/
